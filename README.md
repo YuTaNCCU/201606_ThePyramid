@@ -6,3 +6,4 @@
 ### 2.double click the execute file "專案1.exe"
 ### 3.there is a game introduction in Chinese.
 ### 
+![](https://github.com/YuTaNCCU/201606_ThePyramid/blob/master/pic/pyramid.PNG)
